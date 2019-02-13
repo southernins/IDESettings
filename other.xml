@@ -1,0 +1,81 @@
+<application>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="4.4.2" last-modified="1459493416000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="1" />
+    <property name="BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="true" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.610219" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="DuplicatesForm.settings" value="0.19307734" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="FindSplitterProportion" value="0.24794434" />
+    <property name="HbAutoCollapseBlocks" value="disabled" />
+    <property name="HbCommenterLanguageId" value="HTML" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="OpenOrAttachDialog.OpenMode" value="new" />
+    <property name="PLUGIN_FILTER" value="vim" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PhpStorm.dumbRunEnabled" value="true" />
+    <property name="PhpStorm.initialConfigurationShown" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SearchEveryWhereHistory" value="Data Status&#10;$table-&gt;foreign( 'carrier_id' )-&gt;references( 'id' )-&gt;on( 'carriers' );&#10;create en&#10;import con&#10;carriermenu" />
+    <property name="SettingsSearchHistory" value="live" />
+    <property name="SplitFileEditor.Proportion" value="0.15" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="145" />
+    <property name="disable.forced.soft.wraps.notification" value="true" />
+    <property name="emmet.last.wrap.abbreviations" value="p*" />
+    <property name="emmet.recent.wrap.abbreviations" value="p*&#10;a*&#10;li*&#10;li&#10;&lt;li&gt;" />
+    <property name="evlsprt.11" value="15609348a74" />
+    <property name="evlsprt2.11" value="155da768ab0" />
+    <property name="evlsprt3.11" value="12" />
+    <property name="evlsprt3.162" value="16" />
+    <property name="evlsprt3.173" value="15" />
+    <property name="evlsprt3.182" value="10" />
+    <property name="evlsprt3.183" value="13" />
+    <property name="export.settings.path" value="C:\Users\Nathan\Desktop\settings.jar" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Documents/Dev/Omega_DB/.vagrant/machines/default/virtualbox/private_key&#10;C:/Users/Nathan/Documents/Dev/fartsail&#10;C:/Users/Nathan/Desktop&#10;C:/Users/Nathan/Desktop/New Text Document (2).txt&#10;C:/Users/Nathan/Documents/Dev/Laravel_jQuery/contracting/app&#10;C:/Users/Nathan/Documents/Dev/Laravel_jQuery/contracting/public&#10;C:/Users/Nathan/Documents/Dev/Laravel_jQuery&#10;C:/Users/Nathan/Documents/Dev/Laravel_React&#10;C:/Users/Nathan/Documents/Dev/Laravel_React_Redux-Form&#10;C:/Users/Nathan/Documents/Dev/React-Formal&#10;C:/Users/Nathan/Dropbox&#10;C:/Users/Nathan/Documents/Dev/React_Mockup_2&#10;C:/Users/Nathan/Documents/Dev/ReactStarter&#10;C:/Users/Nathan/Documents/Dev/flux-todo/.idea&#10;C:/Users/Nathan/Documents/Dev/flux-todo&#10;C:/Users/Nathan/Documents/Dev/Symfony/appOne/web&#10;C:/Users/Nathan/Documents/Dev/Symfony" />
+    <property name="file.gist.reindex.count" value="16491" />
+    <property name="fileTypeChangedCounter" value="32" />
+    <property name="find.popup.splitter" value="0.5434343" />
+    <property name="ideavim.statistics.timestamp" value="1548426641435" />
+    <property name="lastTip" value="7" />
+    <property name="settings.code.style.selected.tab.CSS" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.HTML" value="Other" />
+    <property name="settings.code.style.selected.tab.PHP" value="Spaces" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>

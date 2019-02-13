@@ -1,0 +1,8 @@
+<templateSet group="JavaScript">
+  <template name="react" value="&#10;var React       = require('react');&#10;&#10;&#10;var $Name$ = React.createClass({&#10;&#10;    getInitialState: function() {&#10;    &#10;    },&#10;&#10;    render: function(){&#10;&#10;        return(&#10;            $END$&#10;        );&#10;    }&#10;});&#10;&#10;module.exports = $Name$;" description="New React Component Template" toReformat="false" toShortenFQNames="true">
+    <variable name="Name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

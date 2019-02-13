@@ -1,0 +1,38 @@
+<templateSet group="nc_PHP">
+  <template name="pufn" value="public function $functionName$( $parms$  ){&#10;&#10;    $END$&#10;    &#10;} //- END function $functionName$()&#10;&#10;" description="Public Function with Comment on End" toReformat="false" toShortenFQNames="true">
+    <variable name="functionName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="parms" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+      <option name="PHP Comment" value="false" />
+      <option name="PHP String Literal" value="false" />
+    </context>
+  </template>
+  <template name="prfn" value="private function $functionName$( $parms$  ){&#10;&#10;    $END$&#10;    &#10;} //- END function $functionName$()" description="Private Functioni with Comment" toReformat="false" toShortenFQNames="true">
+    <variable name="functionName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="parms" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="prsfn" value="private static function $functionName$( $parms$  ){&#10;&#10;    $END$&#10;    &#10;} //- END function $functionName$()" description="Private Static Function" toReformat="false" toShortenFQNames="true">
+    <variable name="functionName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="parms" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="pusfn" value="public static function $functionName$( $parms$  ){&#10;&#10;    $END$&#10;    &#10;} //- END function $functionName$()" description="Public Static Function" toReformat="false" toShortenFQNames="true">
+    <variable name="functionName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="parms" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="crgn" value="///&#10;/// * $regionName$&#10;///&#10;&#10;&#10;/// endregion&#10;///" description="Commented code Region" toReformat="false" toShortenFQNames="true">
+    <variable name="regionName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
