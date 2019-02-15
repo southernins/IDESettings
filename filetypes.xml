@@ -22,6 +22,7 @@
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="06_loadbalancer" type="PLAIN_TEXT" />
       <mapping pattern="HumanDates" type="PLAIN_TEXT" />
+      <mapping pattern=".envORIG" type="PLAIN_TEXT" />
       <mapping pattern="MockupData" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
