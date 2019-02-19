@@ -1,4 +1,15 @@
 <code_scheme name="Default (2)" version="173">
+  <JSCodeStyleSettings version="0">
+    <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACKETS" value="true" />
+    <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
+    <option name="SPACE_BEFORE_CLASS_LBRACE" value="false" />
+    <option name="REFORMAT_C_STYLE_COMMENTS" value="true" />
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+    <option name="ALIGN_IMPORTS" value="true" />
+    <option name="SPACE_BEFORE_ASYNC_ARROW_LPAREN" value="false" />
+    <option name="SPACES_WITHIN_INTERPOLATION_EXPRESSIONS" value="true" />
+  </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
     <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
@@ -26,6 +37,46 @@
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
     </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+    <option name="BLANK_LINES_AROUND_CLASS" value="2" />
+    <option name="BLANK_LINES_AROUND_FIELD" value="1" />
+    <option name="BLANK_LINES_AROUND_METHOD" value="2" />
+    <option name="ALIGN_MULTILINE_FOR" value="false" />
+    <option name="SPACE_WITHIN_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_METHOD_CALL_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_METHOD_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_IF_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_WHILE_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_FOR_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_CATCH_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_SWITCH_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_BRACKETS" value="true" />
+    <option name="SPACE_BEFORE_IF_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_WHILE_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_FOR_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_CATCH_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_SWITCH_PARENTHESES" value="false" />
+    <option name="SPACE_BEFORE_METHOD_LBRACE" value="false" />
+    <option name="SPACE_BEFORE_IF_LBRACE" value="false" />
+    <option name="SPACE_BEFORE_ELSE_LBRACE" value="false" />
+    <option name="SPACE_BEFORE_WHILE_LBRACE" value="false" />
+    <option name="SPACE_BEFORE_FOR_LBRACE" value="false" />
+    <option name="SPACE_BEFORE_DO_LBRACE" value="false" />
+    <option name="SPACE_BEFORE_SWITCH_LBRACE" value="false" />
+    <option name="SPACE_BEFORE_TRY_LBRACE" value="false" />
+    <option name="SPACE_BEFORE_CATCH_LBRACE" value="false" />
+    <option name="SPACE_BEFORE_FINALLY_LBRACE" value="false" />
+    <option name="SPACE_BEFORE_ELSE_KEYWORD" value="false" />
+    <option name="SPACE_BEFORE_WHILE_KEYWORD" value="false" />
+    <option name="SPACE_BEFORE_CATCH_KEYWORD" value="false" />
+    <option name="SPACE_BEFORE_FINALLY_KEYWORD" value="false" />
+    <option name="FOR_STATEMENT_LPAREN_ON_NEXT_LINE" value="true" />
+    <option name="IF_BRACE_FORCE" value="3" />
+    <option name="DOWHILE_BRACE_FORCE" value="3" />
+    <option name="WHILE_BRACE_FORCE" value="3" />
+    <option name="FOR_BRACE_FORCE" value="3" />
   </codeStyleSettings>
   <codeStyleSettings language="LESS">
     <indentOptions>
