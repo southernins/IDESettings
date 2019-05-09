@@ -2,9 +2,17 @@
   <component name="DuplocatorSettings">
     <option name="SELECTED_PROFILES">
       <set>
-        <option value="PHP" />
+        <option value="ECMAScript 6" />
+        <option value="HTML" />
+        <option value="JavaScript" />
       </set>
     </option>
     <option name="LAST_SELECTED_LANGUAGE" value="PHP" />
+  </component>
+  <component name="MultiLanguageDuplocatorSettings">
+    <object language="PHP">
+      <option name="DISTINGUISH_FUNCTIONS" value="false" />
+      <option name="DISTINGUISH_LITERALS" value="false" />
+    </object>
   </component>
 </application>
