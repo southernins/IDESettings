@@ -1,34 +1,35 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="AgentState" type="PHP" />
       <mapping pattern="Sources" type="PHP" />
       <mapping pattern="CarrierImport" type="PHP" />
-      <mapping pattern="AgentState" type="PHP" />
-      <mapping pattern=".env.staging" type="PLAIN_TEXT" />
-      <mapping pattern="SimpleForm" type="PLAIN_TEXT" />
-      <mapping pattern=".env.dev" type="PLAIN_TEXT" />
-      <mapping pattern=".env.production" type="PLAIN_TEXT" />
-      <mapping pattern="lhQWEtYyGR4FWWw2YnBITP8J6ehqAQr9cnlMsOxC" type="PLAIN_TEXT" />
-      <mapping pattern=".env.testing" type="PLAIN_TEXT" />
-      <mapping pattern="ReadData.php" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="03_eb_settings" type="PLAIN_TEXT" />
       <mapping pattern="W6fgsMQcXK81348D616VRGGq7EL8STmlh8BX8XtN" type="PLAIN_TEXT" />
+      <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
-      <mapping pattern="ImxssevrjGqVbDyP61cjhzmASBtqvnE1rqXFWWNj" type="PLAIN_TEXT" />
-      <mapping pattern="UGp3Stn6QldS5ZeAfD4ayH4vgT5fyC2746Qr3ZHf" type="PLAIN_TEXT" />
-      <mapping pattern="getRxSearchAutocomplete.php" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="EandOFields" type="PLAIN_TEXT" />
-      <mapping pattern="StartShortForm.jsx" type="PLAIN_TEXT" />
-      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".env.localtest" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern="06_loadbalancer" type="PLAIN_TEXT" />
-      <mapping pattern="HumanDates" type="PLAIN_TEXT" />
-      <mapping pattern=".envORIG" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production.test" type="PLAIN_TEXT" />
       <mapping pattern="MockupData" type="PLAIN_TEXT" />
+      <mapping pattern="getRxSearchAutocomplete.php" type="PLAIN_TEXT" />
+      <mapping pattern="StartShortForm.jsx" type="PLAIN_TEXT" />
+      <mapping pattern="EandOFields" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="ReadData.php" type="PLAIN_TEXT" />
+      <mapping pattern="UGp3Stn6QldS5ZeAfD4ayH4vgT5fyC2746Qr3ZHf" type="PLAIN_TEXT" />
+      <mapping pattern=".env.localtest" type="PLAIN_TEXT" />
+      <mapping pattern="SimpleForm" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dev" type="PLAIN_TEXT" />
+      <mapping pattern="06_loadbalancer" type="PLAIN_TEXT" />
+      <mapping pattern="lhQWEtYyGR4FWWw2YnBITP8J6ehqAQr9cnlMsOxC" type="PLAIN_TEXT" />
+      <mapping pattern=".envORIG" type="PLAIN_TEXT" />
+      <mapping pattern="03_eb_settings" type="PLAIN_TEXT" />
+      <mapping pattern="HumanDates" type="PLAIN_TEXT" />
+      <mapping pattern=".env.staging" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern="ImxssevrjGqVbDyP61cjhzmASBtqvnE1rqXFWWNj" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping pattern="contract-user" type="EJS" />
