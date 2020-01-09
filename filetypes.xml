@@ -9,7 +9,6 @@
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env.production.test" type="PLAIN_TEXT" />
-      <mapping pattern="MockupData" type="PLAIN_TEXT" />
       <mapping pattern="getRxSearchAutocomplete.php" type="PLAIN_TEXT" />
       <mapping pattern="StartShortForm.jsx" type="PLAIN_TEXT" />
       <mapping pattern="EandOFields" type="PLAIN_TEXT" />
@@ -28,6 +27,7 @@
       <mapping pattern="HumanDates" type="PLAIN_TEXT" />
       <mapping pattern=".env.staging" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern="MockupData" type="PLAIN_TEXT" />
       <mapping pattern="ImxssevrjGqVbDyP61cjhzmASBtqvnE1rqXFWWNj" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
