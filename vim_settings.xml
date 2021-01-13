@@ -1,34 +1,5 @@
 <application>
-  <component name="VimSettings">
-    <state version="4" enabled="false" />
-    <globalmarks />
-    <filemarks>
-      <file name="$USER_HOME$/Documents/Dev/Omega_DB/omega/resources/assets/js/components/companyMenu.vue" timestamp="1549056389953">
-        <mark key="[" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Dev/PFS_Laravel/plansforseniors/resources/views/pages/plans.blade.php" timestamp="1548427026700">
-        <mark key="'" line="596" column="0" />
-        <mark key="[" line="533" column="60" />
-        <mark key="]" line="539" column="79" />
-        <mark key="^" line="539" column="79" />
-        <mark key="." line="562" column="930" />
-      </file>
-    </filemarks>
-    <jumps>
-      <jump line="562" column="931" filename="$USER_HOME$/Documents/Dev/PFS_Laravel/plansforseniors/resources/views/pages/plans.blade.php" />
-      <jump line="583" column="0" filename="$USER_HOME$/Documents/Dev/PFS_Laravel/plansforseniors/resources/views/pages/plans.blade.php" />
-    </jumps>
-    <registers />
-    <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
-    </search>
-    <history>
-      <history-search />
-      <history-cmd />
-      <history-expr />
-      <history-input />
-    </history>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed I</text>
@@ -43,5 +14,12 @@
         <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+  </component>
+  <component name="VimSettings">
+    <state version="7" enabled="false" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
   </component>
 </application>
