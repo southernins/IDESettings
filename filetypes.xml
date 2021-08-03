@@ -1,14 +1,15 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="contract-user" type="EJS" />
       <mapping pattern="AgentState" type="PHP" />
       <mapping pattern="CarrierImport" type="PHP" />
       <mapping pattern="Sources" type="PHP" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="SimpleForm" type="PLAIN_TEXT" />
-      <mapping pattern=".env.localtest" type="PLAIN_TEXT" />
-      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern="W6fgsMQcXK81348D616VRGGq7EL8STmlh8BX8XtN" type="PLAIN_TEXT" />
+      <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern=".env.localtest" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern=".env.meilisearch" type="PLAIN_TEXT" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
@@ -26,15 +27,14 @@
       <mapping pattern="HumanDates" type="PLAIN_TEXT" />
       <mapping pattern="MockupData" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="StartShortForm.jsx" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern="06_loadbalancer" type="PLAIN_TEXT" />
       <mapping pattern="ReadData.php" type="PLAIN_TEXT" />
-      <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern="StartShortForm.jsx" type="PLAIN_TEXT" />
       <mapping pattern="ImxssevrjGqVbDyP61cjhzmASBtqvnE1rqXFWWNj" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="ebconfig" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
-      <mapping pattern="contract-user" type="EJS" />
     </extensionMap>
   </component>
 </application>
