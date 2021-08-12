@@ -27,10 +27,10 @@
       <mapping pattern="HumanDates" type="PLAIN_TEXT" />
       <mapping pattern="MockupData" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern="StartShortForm.jsx" type="PLAIN_TEXT" />
       <mapping pattern="06_loadbalancer" type="PLAIN_TEXT" />
       <mapping pattern="ReadData.php" type="PLAIN_TEXT" />
-      <mapping pattern="StartShortForm.jsx" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern="ImxssevrjGqVbDyP61cjhzmASBtqvnE1rqXFWWNj" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="ebconfig" type="PLAIN_TEXT" />
