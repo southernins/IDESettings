@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="HierarchyExport" type="AUTO_DETECTED" />
-      <mapping pattern="contract-user" type="EJS" />
       <mapping pattern="AgentState" type="PHP" />
       <mapping pattern="Sources" type="PHP" />
       <mapping pattern="CarrierImport" type="PHP" />
@@ -36,6 +35,7 @@
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="ebconfig" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping pattern="contract-user" type="EJS" />
     </extensionMap>
   </component>
 </application>
