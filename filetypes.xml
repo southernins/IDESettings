@@ -23,6 +23,7 @@
       <mapping pattern=".env.staging" type="PLAIN_TEXT" />
       <mapping pattern="HumanDates" type="PLAIN_TEXT" />
       <mapping pattern="StartShortForm.jsx" type="PLAIN_TEXT" />
+      <mapping pattern=".env.commission" type="PLAIN_TEXT" />
       <mapping pattern=".envORIG" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="UGp3Stn6QldS5ZeAfD4ayH4vgT5fyC2746Qr3ZHf" type="PLAIN_TEXT" />
